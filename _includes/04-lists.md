@@ -1,4 +1,4 @@
 ### Things I like
-* Computer Science.
-* Books are pretty good.
-* Some shows are also good.
+* Computer Science. :computer:
+* Books are pretty good. :book:
+* Some shows are also good. :tv:
