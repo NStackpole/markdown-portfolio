@@ -1,1 +1,1 @@
-[Check out my GitHub profile](http://github.com)
+[Check out my GitHub profile](https://github.com/NStackpole)
